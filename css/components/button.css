@@ -1,0 +1,37 @@
+.btn-brown{
+	background-color:brown;
+    transition: 0.3 ease;
+	color: whitesmoke;
+	padding: 15px 20px;
+ 	border-radius:10px;
+ 	margin: 10px;
+ 	text-decoration: none;
+ 	cursor: pointer;
+ 	text-transform: capitalize;
+ 	font-family: 'Merriweather', serif;
+
+}
+
+.btn-brown:hover{
+ 	background-color:skyblue;
+	color:white;
+	transition: 0.5s;
+}
+
+.btn-green{
+	background-color:green;
+	color: whitesmoke;
+	padding: 10px 15px;
+ 	border-radius:10px;
+ 	margin: 10px;
+ 	text-decoration: none;
+ 	cursor: pointer;
+}
+.btn-green:hover{
+	background-color:skyblue;
+	color:white;
+	transition: 0.5s;
+}
+
+
+ 
